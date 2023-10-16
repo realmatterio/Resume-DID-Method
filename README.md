@@ -39,7 +39,7 @@ Real Matter created and contributed three [DID methods](https://w3c.github.io/di
 
 This document specifies the “Resume” [DID Method](https://w3c.github.io/did-spec-registries/#did-methods) [**did:resume**].
 
-RealMatter uses [did-resume.web.app](did-resume.web.app) as the official service website.
+RealMatter uses [did-resume.web.app](https://did-resume.web.app) as the official service website.
 
 ## Talent Connect Limited
 [talentconnect.com.hk](https://www.talentconnect.com.hk)
