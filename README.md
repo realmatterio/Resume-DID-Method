@@ -69,7 +69,7 @@ job experience
 
 ## DID:Resume Service Endpoints
 
-![Service Endpoint](https://firebasestorage.googleapis.com/v0/b/json-5638c.appspot.com/o/Images%2Fdid-resume-block-diagram.png?alt=media&token=902dc069-c070-476b-bdd0-ea05ae45f023&_gl=1*1c9bjat*_ga*MTAyOTgyNzAyNS4xNjgxMzYwNjE3*_ga_CW55HF8NVT*MTY5NzQxODQxMC4xNjIuMS4xNjk3NDE4NDE5LjUxLjAuMA..)
+![Service Endpoint](https://firebasestorage.googleapis.com/v0/b/json-5638c.appspot.com/o/Images%2Fdid-resume-endpoint.png?alt=media&token=719c5d1c-2bec-41d2-b0e8-ae6c264287f8&_gl=1*24b5zw*_ga*MTAyOTgyNzAyNS4xNjgxMzYwNjE3*_ga_CW55HF8NVT*MTY5NzQxODQxMC4xNjIuMS4xNjk3NDE5ODEyLjYwLjAuMA..)
  
 **Query of job seeker's ID document**
 
