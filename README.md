@@ -193,10 +193,15 @@ Use the multibase format [base16](https://tools.ietf.org/id/draft-multiformats-m
 Six types of path is supported in this version
 
 / : response = information of decentralized identifier : e.g. identity of job seeker
+
 /vc : response = information of verifiable credential : e.g. verifiers and verification method
+
 /bio : response = verified biography : e.g. biography of job seekers and change history
+
 /cert : response = verified certificates : e.g. academic certificates of job seeker and change history
+
 /qual : response = verified qualifications : e.g. professional qualifications of job seeker and change history
+
 /exp : response = verified experience : e.g. job experience of job seeker and change history
 
 
