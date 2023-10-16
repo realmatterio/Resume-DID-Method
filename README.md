@@ -23,7 +23,7 @@ Merging into W3C Github DID Test Suite and DID Registry
 - consultant@talentconnect.com.hk
 
 **Date** 
-- 1 Oct 20
+- 1 Oct 2023
 
 **Version** 
 - First copy V1.0
