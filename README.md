@@ -131,15 +131,15 @@ method-specific-subject-id =  40*idhex   where idhex  = 0-9 / a-f
 
 This generic DID scheme is a URI scheme conformant with [RFC3986](https://www.ietf.org/rfc/rfc3986.txt)
 
-where 
-
-method-specific-ledger-id refers to HKG-chain
-
-method-specific-subject-id refers to a string of 40 hexadecimal characters
-
 example :
 
 did: resume: hkg : f045c5c7d50145b65ca2702c38b4e2d46658293c
+
+where 
+
+method-specific-ledger-id refers to the name of the verifiable distributed legder, e.g., HKG-chain
+
+method-specific-subject-id refers to a string of 40 hexadecimal characters, e.g., an ECDSA encrypted blockchain address
 
 
 **Method Specific Subject ID Generation**
