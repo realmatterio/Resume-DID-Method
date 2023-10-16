@@ -95,7 +95,7 @@ did-resume.web.app/qual/{job_seeker_id}?token={access_token}
 
 did-resume.web.app/exp/{job_seeker_id}?token={access_token}
 
-remark: for public access information, post no query
+remark: for public access information, post no access token
 
 ## Conformity
 
