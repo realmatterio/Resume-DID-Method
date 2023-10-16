@@ -12,9 +12,6 @@ Merging into W3C Github DID Test Suite and DID Registry
 ## Real Matter Technology Limited
 [realmatter.io](https://realmatter.io)
 
-## Talent Connect Limited
-[talentconnect.com.hk](https://www.talentconnect.com.hk)
-
 **Author** 
 - Ming-lam Ng with Real Matter Technology
 
@@ -42,7 +39,10 @@ Real Matter created and contributed three [DID methods](https://w3c.github.io/di
 
 This document specifies the “Resume” [DID Method](https://w3c.github.io/did-spec-registries/#did-methods) [**did:resume**].
 
-RealMatter uses did-resume.web.app as the official service website.
+RealMatter uses [did-resume.web.app](did-resume.web.app) as the official service website.
+
+## Talent Connect Limited
+[talentconnect.com.hk](https://www.talentconnect.com.hk)
 
 ## About Talent Connect
 
