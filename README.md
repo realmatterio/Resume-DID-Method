@@ -67,7 +67,7 @@ academic certifications,
 professional qualifications,
 job experience
 
-**DID:Resume Service Endpoints**
+## DID:Resume Service Endpoints
 
 ![Service Endpoint](https://firebasestorage.googleapis.com/v0/b/json-5638c.appspot.com/o/Images%2Fdid-resume-block-diagram.png?alt=media&token=902dc069-c070-476b-bdd0-ea05ae45f023&_gl=1*1c9bjat*_ga*MTAyOTgyNzAyNS4xNjgxMzYwNjE3*_ga_CW55HF8NVT*MTY5NzQxODQxMC4xNjIuMS4xNjk3NDE4NDE5LjUxLjAuMA..)
  
