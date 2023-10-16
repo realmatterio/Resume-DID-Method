@@ -266,7 +266,7 @@ Accept-Encoding: gzip, deflate
 
 The instruction to read a DID is issued via a GET HTTP request. 
 
-did-resume.web.app/did/{method-specific-subject-id}
+did-resume.web.app/{method-specific-subject-id}
 
 Example :
 
