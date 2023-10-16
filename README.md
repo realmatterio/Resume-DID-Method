@@ -272,7 +272,7 @@ did-resume.web.app/{method-specific-subject-id}
 
 Example :
 
-[did-resume.web.app/f045c5c7d50145b65ca2702c38b4e2d46658293c](did-resume.web.app/f045c5c7d50145b65ca2702c38b4e2d46658293c)
+[did-resume.web.app/f045c5c7d50145b65ca2702c38b4e2d46658293c](https://did-resume.web.app/f045c5c7d50145b65ca2702c38b4e2d46658293c)
 
 ```
 GET /f045c5c7d50145b65ca2702c38b4e2d46658293c?token=abcde
