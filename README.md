@@ -36,7 +36,7 @@ Merging into W3C Github DID Test Suite and DID Registry
 ## About Real Matter
 
 Real Matter Technology Limited
-is a Fintech company that envisions implementing chip-level blockchain identity technology and smart contract-on-chip credentials to facilitate real-world asset tokenization and provide verifiable solutions for Web3 crypto-asset identities.
+is a Fintech company that envisions implementing chip-level blockchain identity technology and smart contract-on-chip credentials to facilitate real-world asset tokenization and provide verifiable solutions for Web3 crypto-asset identities. Real Matter created and contributed three [DID methods](https://w3c.github.io/did-spec-registries/#did-methods) : [did:art](https://github.com/ArtracID/ArtracID-DID-ART-Method), [did:rm](https://github.com/realmatterio/RealMatter-DID-Method), and this did:resume 
 
 This document specifies the “Resume” [DID Method](https://w3c.github.io/did-spec-registries/#did-methods) [**did:resume**].
 
