@@ -7,7 +7,8 @@ Technical Paper for W3C DID Registration
 
 ## Official Resume DID Method in W3C Registry
 
-Merging into W3C Github DID Test Suite and DID Registry
+Merged into W3C Github DID Test Suite and DID Registry in January 2024
+at [W3C DID Spec Registries](https://github.com/w3c/did-spec-registries/actions/runs/7728286085/job/21068713220)
 
 ## Real Matter Technology Limited
 [realmatter.io](https://realmatter.io)
